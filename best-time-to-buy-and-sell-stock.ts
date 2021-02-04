@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 function maxProfit(prices: number[]): number {
   var min = Infinity;
   var max = 0;

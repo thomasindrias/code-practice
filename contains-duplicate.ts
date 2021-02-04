@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/contains-duplicate/
 function containsDuplicate(nums: number[]): boolean {
   var numSet = new Set<number>();
 
